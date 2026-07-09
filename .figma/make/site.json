@@ -1,0 +1,11 @@
+{
+  "title": "Jailbreaker · AI Jailbreak Shield",
+  "description": "This AI safety platform safeguards Large Language Models from jailbreak attacks and prompt injections, offering real-time analysis and risk scoring for researchers.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
