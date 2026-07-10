@@ -255,13 +255,13 @@ Fork the repository and submit a pull request.
 
 **Thanges Pameesha**
 
-Cyber Security Undergraduate
+B.E. CSE(Cyber Security)
 
 Chennai Institute of Technology
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/thangespameesha
 
-LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+LinkedIn: https://www.linkedin.com/in/thanges-pameesha-s-a-95124a312/
 
 ---
 
