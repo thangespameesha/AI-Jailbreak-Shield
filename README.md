@@ -1,4 +1,4 @@
-# 🛡️ AI Jailbreak Shield
+<img width="1365" height="594" alt="image" src="https://github.com/user-attachments/assets/e150764f-4718-42a6-a9d8-c2b3fd61b574" /># 🛡️ AI Jailbreak Shield
 
 An AI-powered cybersecurity application that detects and blocks malicious, unsafe, and jailbreak prompts before they reach a Large Language Model (LLM). The project combines rule-based security techniques with semantic analysis and AI-powered risk assessment to improve the safety of AI interactions.
 
@@ -202,19 +202,24 @@ Detected jailbreak attempt.
 
 ### Home Page
 
-> Add screenshot here
+<img width="1365" height="594" alt="image" src="https://github.com/user-attachments/assets/fa1ede8b-0ae4-4d6e-ad6b-579f6c514b5e" />
+
+
 
 ---
 
 ### Detection Result
+<img width="1365" height="590" alt="image" src="https://github.com/user-attachments/assets/c60989ed-7e4b-47d9-9440-d38fb3cac391" />
 
-> Add screenshot here
+<img width="1365" height="591" alt="image" src="https://github.com/user-attachments/assets/2a14e17e-3444-469c-9b42-9152ae1335be" />
 
 ---
 
 ### Dashboard
 
-> Add screenshot here
+<img width="1361" height="591" alt="image" src="https://github.com/user-attachments/assets/67bc47b3-7e40-4eaa-be33-3e2686951c4c" />
+
+<img width="1358" height="480" alt="image" src="https://github.com/user-attachments/assets/75c1f1ae-e156-4116-9330-a9ae89f01797" />
 
 ---
 
