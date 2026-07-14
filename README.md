@@ -258,6 +258,16 @@ Fork the repository and submit a pull request.
 
 ## 👨‍💻 Author
 
+**Jeswin Doss A**
+
+B.E. CSE(Cyber Security)
+
+Chennai Institute of Technology
+
+GitHub: https: https://github.com/DOSSJD 
+
+LinkedIn: https: https://www.linkedin.com/in/jeswin-doss-a-786419327/
+
 **Thanges Pameesha**
 
 B.E. CSE(Cyber Security)
